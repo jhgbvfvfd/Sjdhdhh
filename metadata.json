@@ -1,0 +1,6 @@
+{
+  "name": "SiamVPN",
+  "description": "High-speed secure VPN client supporting actual Tunnel interfaces, custom DNS configuration, real-time speed analytics, application split-tunneling, and connection session logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
